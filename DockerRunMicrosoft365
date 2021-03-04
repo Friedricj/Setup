@@ -1,0 +1,5 @@
+// See also
+// Alpine Linux (ubuntu) Node.js PS 7
+docker run --rm -it m365pnp/cli-microsoft365:latest
+
+
